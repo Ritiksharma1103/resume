@@ -1,0 +1,57 @@
+
+#header
+{
+    position: relative;
+    height: 140px;
+    display: block;
+    background-color: blanchedalmond;
+    width: 100%;
+    border: 100px;
+    }
+
+#address{
+    display: block;
+
+}
+
+#name {
+    display: block;
+    color: blue;
+    
+}
+
+#email{
+    display: block;
+    color: black;
+}
+
+#contact
+{
+    display: block;
+	color: blue;
+    }
+
+a:hover {
+    font-weight: bold;
+}
+
+.right
+{
+    float: left;
+    height: auto;
+    width: 99%;
+    background-color: #E3EDD8;
+    }
+h3
+{
+    text-decoration: underline;
+    }
+table
+{
+    border: 1px dashed black;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid #E88741;
+    }
